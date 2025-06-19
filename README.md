@@ -1,9 +1,9 @@
 # test-repo
 
 //abhijeet 
-Consider yourself as a developer and analyze the projectbrief.md file which contains the requirements to be implemented , simplify the requirements and generate the task to be developed and implemented
-what tech stack should we use to achieve flexibility, low coupling
-what is the backend
-can we use java as a backend
+<li>Consider yourself as a developer and analyze the projectbrief.md file which contains the requirements to be implemented , simplify the requirements and generate the task to be developed and implemented </li>
+<li>what tech stack should we use to achieve flexibility, low coupling</li>
+<li>what is the backend</li>
+<li>can we use java as a backend</li>
 
 
